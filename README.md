@@ -7,6 +7,9 @@ Built with HTML, CSS, and JavaScript. Hosted for free on [Netlify](https://www.n
 
 ---
 > *I designed this to reflect my style and experience in web development.*
+> ## 🛠️ Built With
+- HTML5, CSS3, JavaScript (Vanilla)
+- Netlify for free hosting
 
 ![Portfolio Screenshot](https://github.com/KabirRathod1984/My-Portfolio-Site/blob/main/Screenshot%202025-08-15%20at%2021-29-22%20Cyspy.Maiden.png)
 
